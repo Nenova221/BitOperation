@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\bin\Debug\net8.0\BitOperation.exe
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\bin\Debug\net8.0\BitOperation.deps.json
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\bin\Debug\net8.0\BitOperation.runtimeconfig.json
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\bin\Debug\net8.0\BitOperation.dll
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\bin\Debug\net8.0\BitOperation.pdb
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.dll
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\refint\BitOperation.dll
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.pdb
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\BitOperation.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\BitOperation\BitOperation\obj\Debug\net8.0\ref\BitOperation.dll

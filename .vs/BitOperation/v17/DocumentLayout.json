@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KalinA\\source\\repos\\BitOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2985F39F-C563-4DA4-9B59-3FD9209C5794}|BitOperation\\BitOperation.csproj|c:\\users\\kalina\\source\\repos\\bitoperation\\bitoperation\\bitoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2985F39F-C563-4DA4-9B59-3FD9209C5794}|BitOperation\\BitOperation.csproj|solutionrelative:bitoperation\\bitoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1808,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BitOperation.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\BitOperation\\BitOperation\\BitOperation.cs",
+              "RelativeDocumentMoniker": "BitOperation\\BitOperation.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\BitOperation\\BitOperation\\BitOperation.cs",
+              "RelativeToolTip": "BitOperation\\BitOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:11:42.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
